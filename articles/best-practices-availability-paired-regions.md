@@ -42,7 +42,7 @@ No. Customers can leverage Azure services to architect a resilient service witho
 
 ## Azure Regional Pairs
 
-| Geography | Regional Pair A | Regional Pair B  |
+| Geography | Regional Pair A (Primary) | Regional Pair B (Secondary) |
 |:--- |:--- |:--- |
 | Asia-Pacific |East Asia (Hong Kong) | Southeast Asia (Singapore) |
 | Australia |Australia East |Australia Southeast |
